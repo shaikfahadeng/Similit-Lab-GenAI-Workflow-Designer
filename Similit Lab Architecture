@@ -1,0 +1,35 @@
+User (Non Technical Analyst)
+            │
+            ▼
+    Streamlit Web Interface
+            │
+            ▼
+    Workflow Input Engine
+    - New Flow
+    - Existing Flow
+    - Triggers
+    - Keywords
+    - Time Tracking
+            │
+            ▼
+    GenAI Prompt Structure Layer
+    - Template Guidance
+    - Flow Structuring
+    - Decision Logic
+            │
+            ▼
+    Flow Storage Module
+    - JSON / Local DB
+    - Versioned Flow Copies
+            │
+            ▼
+    AI Training Ready Data
+    - Structured Workflow Logic
+    - Process Definitions
+            │
+            ▼
+Future Integrations
+- LLM Optimization Engine
+- Incident Monitoring Systems
+- DevOps Pipelines
+- Azure Web App Deployment
